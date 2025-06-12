@@ -1,0 +1,7 @@
+Received: from mail.fakevendor.com (mail.fakevendor.com. [185.101.92.23])
+Authentication-Results: dmarc=fail header.from=fakevendor.com
+Return-Path: <accounts-update@fakevendor.com>
+From: "Office 365 Admin" <admin@fakevendor.com>
+To: victim@yourcompany.com
+Subject: Action Required - Verify Your Account
+Message-ID: <123456789@mail.fakevendor.com>
