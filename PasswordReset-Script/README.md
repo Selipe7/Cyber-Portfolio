@@ -1,21 +1,21 @@
 # Active Directory Password Reset Script
 
-## 🛠 Purpose
+## Purpose
 A PowerShell script that automates user password resets in Active Directory, useful for Help Desk and sysadmin support roles.
 
-## 📜 Script Overview
+## Script Overview
 - Resets a given user’s password
 - Forces password change at next login
 - Logs the reset event
 
-## 🔐 Security Considerations
+## Security Considerations
 - Run with least privilege
 - Use logging and monitoring for audit trails
 
-## 📸 Screenshots
-See `/screenshots` for usage examples.
+## Screenshots
+See `/screenshots` for examples.
 
-## 💡 What I Learned
+## What I Learned
 Writing this helped me understand how to safely automate AD tasks and incorporate audit logging.
 
 ## 🔗 Related Tools
